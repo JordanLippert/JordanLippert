@@ -2,4 +2,4 @@
 -  Estou atualmente estudando como fazer codigos em  C/C++/Javascript
 - 📫 Você pode me contatar pelo meu email: lippertx11@gmail.com, ou pelo meu Linkedin: https://www.linkedin.com/in/jordan-lippert-de-oliveira/
 
---->
+
