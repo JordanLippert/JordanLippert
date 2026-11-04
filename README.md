@@ -69,9 +69,10 @@
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/headings/projects-dark.svg"><img src="./imgs/headings/projects-light.svg" alt="02 Projetos / projects" width="366"></picture></p>
 
 <ul>
-  <li><b><a href="https://pracompra.vercel.app">Pracomprá</a></b> · Expo, TypeScript, C#/.NET 8<br>Lista de compras em PWA instalável, com uso offline, seleção por voz e envio pelo WhatsApp.<br>Shopping list as an installable PWA, with offline use, voice selection and WhatsApp sharing.</li>
+  <li><b><a href="https://github.com/JordanLippert/Market_List_Generator">Pracomprá</a></b> · Expo, TypeScript, C#/.NET 8<br>Lista de compras em PWA instalável, com uso offline, seleção por voz e envio pelo WhatsApp.<br>Shopping list as an installable PWA, with offline use, voice selection and WhatsApp sharing.</li>
   <li><b><a href="https://daily-versicles.vercel.app">Versículos Diários</a></b> · Next.js, TypeScript, Prisma, PostgreSQL, Web Push<br>PWA com dois versículos por dia, notificações push e imagens prontas para compartilhar.<br>PWA with two verses a day, push notifications and images ready to share.</li>
   <li><b><a href="https://github.com/JordanLippert/devroast">DevRoast</a></b> · Next.js, TypeScript, Drizzle, PostgreSQL, Gemini<br>Cole seu código e receba nota, feedback e sugestões geradas por IA, com leaderboard público.<br>Paste your code and get an AI score, feedback and suggestions, with a public leaderboard.</li>
+  <li><b><a href="https://github.com/JordanLippert/hearsay-pwa">hearsay-pwa</a></b> · TypeScript, React, Whisper<br>Biblioteca de voz para PWAs: transcrição no navegador e comandos, sem a API nativa SpeechRecognition.<br>Voice library for PWAs: in-browser transcription and commands, without the native SpeechRecognition API.</li>
   <li><b><a href="https://github.com/JordanLippert/retro-profile-readme">Retro Profile README</a></b> · Python, SVG<br>Fork do gerador do DevCelio que monta este perfil: arte como imagem, temas e ícones em pixel.<br>Fork of DevCelio&#x27;s generator behind this profile: art as images, themes and pixel icons.</li>
 </ul>
 
